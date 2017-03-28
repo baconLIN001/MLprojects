@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a09b8a3-6695-46d8-88af-9656527d0276" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/7_99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_100.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_101.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_102.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_103.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_106.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_107.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_108.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_109.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_110.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_111.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_112.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_113.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_114.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_115.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_116.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_117.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_118.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_119.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_120.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_121.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_123.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_124.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_125.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_126.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_127.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_128.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_129.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_130.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_131.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_132.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_133.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_134.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_135.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_136.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_138.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_139.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_140.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_141.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_142.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_143.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_145.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_146.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_147.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_148.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_149.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_150.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_151.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_152.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_153.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_154.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_155.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_156.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_157.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_158.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_159.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_160.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_161.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_162.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_163.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_164.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_165.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_166.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_167.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_168.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_170.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_171.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_172.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_173.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_174.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_175.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_177.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_178.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_179.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/8_99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_100.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_101.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_102.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_103.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_106.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_107.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_108.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_109.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_110.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_111.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_112.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_113.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_114.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_115.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_116.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_117.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_118.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_119.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_120.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_121.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_123.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_124.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_125.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_126.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_127.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_128.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_129.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_130.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_131.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_132.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_133.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_134.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_135.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_136.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_138.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_139.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_140.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_141.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_142.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_143.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_145.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_146.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_147.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_148.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_149.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_150.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_151.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_152.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_153.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_154.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_155.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_156.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_157.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_158.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_159.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_160.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_161.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_162.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_163.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_164.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_165.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_166.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_167.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_168.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_170.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_171.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_172.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_173.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_174.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_175.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_177.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_178.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_179.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_180.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_181.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_182.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_183.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_184.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_185.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_186.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_187.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_188.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_189.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_190.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_191.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_192.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_193.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_194.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_195.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_196.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_197.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_198.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_199.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_200.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_201.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_202.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_203.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kNN/trainingDigits/9_99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MLprojects.iml" afterPath="$PROJECT_DIR$/.idea/MLprojects.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CART/test.py" afterPath="$PROJECT_DIR$/CART/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="MLprojects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MLprojects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CART/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32534248">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CART/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="269" />
+    <option name="y" value="5" />
+    <option name="width" value="1083" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kNN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decisionTree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CART" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLprojects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a09b8a3-6695-46d8-88af-9656527d0276" name="Default" comment="" />
+      <created>1490622190131</created>
+      <option name="number" value="Default" />
+      <updated>1490622190131</updated>
+    </task>
+    <task id="LOCAL-00001" summary="kNN and decision tree">
+      <created>1490622362115</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490622362115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="269" y="5" width="1083" height="772" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24926686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kNN and decision tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="kNN and decision tree" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CART/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32534248">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
