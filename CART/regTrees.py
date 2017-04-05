@@ -18,9 +18,9 @@ def loadDataSet(fileName):
     :param:value:该特征的某个值，切分点
 """
 def binSplitDataSet(dataSet,feature,value):
-    mat0 = dataSet[nonzero(dataSet[:,feature]>value)[0],:][0]
-    mat1 = dataSet[nonzero(dataSet[:,feature]<=value)[0],:][0]
-    return mat0,mat1
+    mat0 = dataSet[nonzero(dataSet[:, feature] > value)[0], :]
+    mat1 = dataSet[nonzero(dataSet[:, feature] <= value)[0], :]
+    return mat0, mat1
 
 #生成叶节点，回归树中，为均值
 def regLeaf(dataSet):
@@ -43,7 +43,7 @@ def createTree(dataSet,leafType=regLeaf,errType=regErr,ops=(1,4)):
     retTree['spVal']=val
     lSet,rSet=binSplitDataSet(dataSet,feat,val)
     retTree['left']=createTree(lSet,leafType,errType,ops)
-    retTree['right']=createTree(rSet.leafType,errType,ops)
+    retTree['right']=createTree(rSet,leafType,errType,ops)
     return retTree
 #找到数据的最佳二元划分方式
 """
@@ -57,7 +57,7 @@ def chooseBestSplit(dataSet,leafType=regLeaf, errType=regErr,ops=(1,4)):
     tolS = ops[0] #容许的误差下降值
     tolN = ops[1] #切分的最小样本数
     #如果所有值相等则退出（统计不同剩余特征值的数目，为1返回）
-    if len(set(dataSet[:,-1].T.tolist()[0]))==1:
+    if len(set(dataSet[:, -1].T.tolist()[0])) == 1:
         return None,leafType(dataSet)
     m,n = shape(dataSet)
     S = errType(dataSet)
@@ -65,7 +65,7 @@ def chooseBestSplit(dataSet,leafType=regLeaf, errType=regErr,ops=(1,4)):
     bestIndex = 0
     bestValue = 0
     for featIndex in range(n-1):
-        for splitVal in set(dataSet[:,featIndex]):
+        for splitVal in set((dataSet[:,featIndex].T.tolist())[0]):
             mat0,mat1 = binSplitDataSet(dataSet,featIndex,splitVal)
             if (shape(mat0)[0]<tolN) or (shape(mat1)[0]<tolN): continue
             newS = errType(mat0)+errType(mat1)
@@ -81,3 +81,32 @@ def chooseBestSplit(dataSet,leafType=regLeaf, errType=regErr,ops=(1,4)):
     if(shape(mat0)[0]<tolN)or(shape(mat1)[0]<tolN):
         return None,leafType(dataSet)
     return bestIndex,bestValue
+
+#判断是否是叶节点
+def isTree(obj):
+    return (type(obj).__name__=='dict')
+
+def getMean(tree):
+    if isTree(tree['right']):tree['right'] = getMean(tree['right'])
+    if isTree(tree['left']):tree['right'] = getMean(tree['left'])
+    return (tree['left']+tree['right'])/2.0
+
+def prune(tree,testData):
+    if shape(testData)[0]==0:
+        return getMean(tree)
+    if (isTree(tree['right'])or isTree(tree['left'])):
+        lSet,rSet = binSplitDataSet(testData,tree['spInd'],tree['spVal'])
+    if isTree(['left']):
+        tree['left'] = prune(tree['left'],lSet)
+    if isTree(['right']):
+        tree['right'] = prune(tree['right'],rSet)
+    if not isTree(tree['left']) and not isTree(tree['right']):
+        lSet,rSet = binSplitDataSet(testData,tree['spInd'],tree['spVal'])
+        errorNoMerge = sum(power(lSet[:,-1] - tree['right'],2))
+        treeMean = (tree['left'] + tree['right'])/2.0
+        errorMerge = sum(power(testData[:,-1] - treeMean),2)
+        if errorMerge < errorNoMerge:
+            print "merging"
+            return treeMean
+        else:return tree
+    else:return tree
